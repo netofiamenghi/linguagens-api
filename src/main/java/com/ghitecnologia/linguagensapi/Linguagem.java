@@ -7,19 +7,12 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 @Document(collection = "principaisLinguagens")
 @NoArgsConstructor
+@Getter
 public class Linguagem {
 
     @Id
-    @Getter
     private String id;
-
-    @Getter
     private String title;
-
-    @Getter
     private String image;
-
-    @Getter
     private int ranking;
-
 }

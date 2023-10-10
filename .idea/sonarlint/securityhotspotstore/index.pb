@@ -27,3 +27,5 @@ t
 Dsrc/main/java/com/ghitecnologia/linguagensapi/LinguagemControle.java,d/6/d6f83194b540cd134f2a82a8eda2ebaf2d7d64c3
 l
 <src/main/java/com/ghitecnologia/linguagensapi/Linguagem.java,d/5/d527555afd2e156bfbf4420295f4f7e483600472
+€
+Psrc/test/java/com/ghitecnologia/linguagensapi/LinguagensApiApplicationTests.java,9/4/940e82839150bd6e62a4b9a29194a2e37eb98c42
